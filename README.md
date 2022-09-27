@@ -3,10 +3,7 @@ Here you can see my first steps in coding with Python from my course Programming
 https://softuni.bg
 
 https://judge.softuni.org
-<<<<<<< HEAD
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 ![SoftUni!](https://softuni.bg/Files/Publications/2020/08/internaprogramsoftwareuniversity_161725303.png)
 =======
 https://images.app.goo.gl/ooFpXn4esnpJvqhm6
