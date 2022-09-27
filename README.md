@@ -3,5 +3,3 @@ Here you can see my first steps in coding with Python from my course Programming
 https://softuni.bg
 
 https://judge.softuni.org
-
-https://images.app.goo.gl/ooFpXn4esnpJvqhm6
