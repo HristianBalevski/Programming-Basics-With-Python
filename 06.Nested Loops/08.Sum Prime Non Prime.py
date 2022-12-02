@@ -9,6 +9,7 @@ while command != 'stop':
         print('Number is negative.')
         command = input()
         continue
+        
     if curr_number <= 1:
         non_prime_sum += curr_number
     else:
