@@ -8,16 +8,21 @@ everest = 0
 
 for groups in range(1, groups_quantity + 1):
     people_quantity = int(input())
+    
     if people_quantity <= 5:
         mus += people_quantity
+        
     elif 6 <= people_quantity <= 12:
         mon += people_quantity
+        
     elif 13 <= people_quantity <= 25:
         kili += people_quantity
+        
     elif 26 <= people_quantity <= 40:
         k2 += people_quantity
     else:
         everest += people_quantity
+        
 total_people = mus + mon + kili + k2 + everest
 mus = (mus / total_people) * 100
 mon = (mon / total_people) * 100
