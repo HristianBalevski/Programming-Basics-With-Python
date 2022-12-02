@@ -9,12 +9,15 @@ total_points = 0
 
 for i in range(1, tournament_cnt + 1):
     stage = input()
+    
     if stage == 'W':
         total_points += 2000
         W += 1
+        
     if stage == 'F':
         total_points += 1200
         F += 1
+        
     if stage == 'SF':
         total_points += 720
         SF += 1
